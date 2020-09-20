@@ -1,6 +1,11 @@
 ### Hi there 👋
 
  
+
+
+# Pranesh M
+[![Gmail Badge](https://img.shields.io/badge/-praneshmj17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:praneshmj17@gmail.com)](mailto:praneshmj17@gmail.com)
+
  
 
 I'm Pranesh ,An aspiring web developer ,android developer and  entrepreneur who believes good product just solves your problem but best product changes your way of life.
