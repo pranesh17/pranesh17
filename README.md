@@ -20,7 +20,7 @@ I'm Pranesh ,An aspiring web developer ,android developer and  entrepreneur who 
 
  
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=harishsg99&show_icons=true" alt="harishsg99" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=pranesh_17&show_icons=true" alt="harishsg99" /></p>
 
  
 
