@@ -10,13 +10,6 @@
 
 I'm Pranesh ,.
 
- 
-
-- 🔭 I’m currently working on 
-- 🌱 I  
-- 🌱 I 
-- ⚡ Languages: Python3, C, Java, Javascript. 
-- 🌱 I 
 
  
 
