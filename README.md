@@ -8,7 +8,7 @@
 
  
 
-I'm Pranesh ,An aspiring engineering with interests in the field of development specifically Web.
+I'm Pranesh, an aspiring Software Engineer with interests in the field of development specifically Web.
 
 
  
